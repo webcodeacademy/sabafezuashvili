@@ -1,0 +1,267 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Protest Revolution", sans-serif;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body1 {
+    background-image: url(../img/Untitled-1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer div a img {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+
+}
+
+
+.mainp {
+    font-size: 200px;
+    text-align: center;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin-bottom: 90px;
+
+}
+
+.carousel-indicators li.active {
+    margin-bottom: 90px;
+}
+
+.item {
+    height: 900px;
+
+}
+
+.carousel-inner {
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.carousel {
+    height: 100vh;
+}
+
+.protest {
+    text-align: center;
+}
+
+.vid1 {
+    margin-top: 100px;
+    margin: 0 auto;
+}
+
+.surati {
+    width: 600px;
+    height: 350px;
+    overflow: hidden;
+    margin-top: 50px;
+
+
+}
+
+.m1 {
+    padding: 0 50px;
+}
+
+.ar {
+    font-size: larger;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.ph1 {
+    height: 500px;
+    width: 850px;
+    overflow: hidden;
+    margin: 0 auto;
+
+
+}
+
+.m2 {
+    padding-bottom: 50px;
+}
+
+.navbar {
+    height: 100%;
+}
+
+.ggg {
+    text-align: center;
+}
+
+.hhh {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ph {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.ull li{
+list-style-type: disc;
+}
+
+
+.login {
+    background-color: #ffffff;
+    width: 400px;
+    margin: 150px auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #c4c4c4;
+    text-align: center;
+  }
+  
+  
+  .login input, .login input[type= "password"]#mainpass {
+    width: 100%;
+    padding: 12px;
+  
+    outline: none;
+    border-radius: 12px;
+    border: none;
+  }
+
+  .forgetpass {
+    margin-top: 20px;
+  }
+  
+  .login input[type="submit"], .submit {
+    background-color: #ffffff;
+    border-radius: 12px;
+    
+  
+  }
+  
+  .login input[type="submit"]:hover, .submit:hover {
+    background-color: #101010;
+    cursor: pointer;
+    transition: 0.5s;
+    border: solid 2px #000000;
+    color: #ffffff;
+  }
+  
+  .submit{
+    padding: 12px;
+   
+  }
+
+  .submit a{
+    color: #000000;
+  }
+
+  .submit:hover a{
+    color: #ffffff;
+  }
+
+  .login input[type="password"] {
+    width: 80%;
+  
+  }
+  
+ 
+  .login input[type= "password"]#mainpass{
+    margin-top: 0;
+  }
+
+  .charco {
+    border: 1px solid #c4c4c4;
+    border-radius: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 25px;
+    background-color: #ffffff;
+  }
+
+  .login input[type="email"]{
+ border: 1px solid #c4c4c4;
+ margin-top: 25px;
+  }
+
+
+  .lll{
+    background-color: #101010;
+  }
+
+
+  .sig{
+    color: #ffffff;
+  }
+
+  .forgetpass{
+    color: #ffffff;
+  }
+
+  .nig{
+    color: #000000;
+  }
+
+
+  .card-img-top{
+    width: 400px;
+    height: 300px;
+  }
+
+  .card-title{
+width: 400px;
+    font-size: 20px;
+  }
+
+  .statia{
+    padding: 250px;
+
+  }
+
+  .card{
+width: 400px!important;
+  }
+
+  .rrrr{
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  }
+
+  .rrrr img{
+    width: 1000px;
+  }
+
+ 
